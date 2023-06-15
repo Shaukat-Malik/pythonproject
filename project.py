@@ -1,6 +1,7 @@
 def user_details():
     first_name = input("What is your first name? ")
     last_name = input("What is your last name? ")
+    # how are you
     marital_status = input("Are you married? (yes/no) ")
     money = input("Do you have money? ")
 
